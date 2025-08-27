@@ -1,4 +1,4 @@
-# 📚 Study Buddy
+#### 📚 Study Buddy
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -30,19 +30,19 @@ It provides tools like interactive quizzes, summaries, and AI chat to make learn
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
+## 1. Clone the Repository
+
 git clone https://github.com/Saptakcodes/study-buddy.git
-2. Install Dependencies
+## 2. Install Dependencies
 npm install
 
-3. Run in Development Mode
+## 3. Run in Development Mode
 npm run dev
 
 
 Your app will be live at: http://localhost:5173
 
-4. Build for Production
+## 4. Build for Production
 npm run build
 
 
@@ -62,16 +62,16 @@ study-buddy/
 │   ├── index.html        # Root HTML
 │   └── package.json      # Dependencies
 
-📸 Screenshots (Optional)
+📸 Screenshots 
 
-Add screenshots or demo gifs here later
 
-🌐 Deployment
 
-Deployed on Vercel → https://study-buddy.vercel.app
+## 🌐 Deployment
+
+Deployed on Vercel → https://study-buddy-rust-two.vercel.app/
  (link after deployment)
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -83,11 +83,11 @@ Commit changes and push
 
 Open a Pull Request
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. You’re free to use and modify it with attribution.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Saptak Chaki ✨
 GitHub
